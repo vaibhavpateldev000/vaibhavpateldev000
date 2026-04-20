@@ -10,7 +10,7 @@
 
 <img src="assets/qgQUggAC3Pfv687qPC.webp" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Github](https://github.com/vaibhavpateldev000)**
+- 🙋🏻‍♂️ All about me is at **[My Github](https://github.com/vaibhavpateldev000)**
 
 - 🔭 I'm currently working on `Something Interesting`
 
